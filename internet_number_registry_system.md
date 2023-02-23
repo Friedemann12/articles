@@ -4,38 +4,33 @@
 ## Einleitung
 
 
-AFRINIC, das regionale Internetregister, das für die Verteilung von IP-Adressen und anderen Internetressourcen in Afrika zuständig ist, war kürzlich in einen Konflikt mit Cloud Innovation verwickelt. Das Unternehmen hat AFRINIC Missmanagement und Korruption vorgeworfen. Dieser Konflikt zeigt, wie wichtig eine unabhängige und transparente Organisation ist, die für die Zuweisung und Verwaltung von IP-Adressen zuständig ist, denn AFRINIC spielt eine entscheidende Rolle bei der Gewährleistung einer effizienten, effektiven und gerechten Zuweisung und Vergabe dieser Ressourcen.
+AFRINIC, das regionale Internetregister, das für die Verteilung von IP-Adressen und anderen Internetressourcen in Afrika zuständig ist, geriet kürzlich in Konflikt mit Cloud Innovation. Das Unternehmen beschuldigte AFRINIC der Misswirtschaft und Korruption. Dieser Konflikt verdeutlicht die Bedeutung einer unabhängigen und transparenten Organisation, die für die Zuweisung und Verwaltung von IP-Adressen verantwortlich ist, da AFRINIC eine entscheidende Rolle bei der Gewährleistung einer gleichberechtigten Zuweisung und Vergabe dieser Ressourcen spielt.
 
-Die Vorwürfe der Misswirtschaft und Korruption haben das Potenzial, die Glaubwürdigkeit und Effektivität von AFRINIC zu untergraben, was sich auf die Verwaltung und den Betrieb des Internet Number Registry Systems auswirken könnte. 
+Die Anschuldigungen von Misswirtschaft und Korruption haben das Potenzial, die Glaubwürdigkeit und Effektivität von AFRINIC zu untergraben, was sich auf die Verwaltung und den Betrieb des Internet-Number-Registry-Systems auswirken könnte.
 
 
 ### Was ist das Internet Number Registry System? 
 
-Das Internet Number Registry System (INRS) ist eine entscheidende Komponente der Internet-Infrastruktur, da es sicherstellt, dass Geräte im Internet über eindeutige und weltweit anerkannte Adressen miteinander kommunizieren können.
+Das Internet Number Registry System (INRS) ist ein essentieller Bestandteil der Internet-Infrastruktur, da es gewährleistet, dass Geräte im Internet über eindeutige und global anerkannte Adressen miteinander kommunizieren können.
 
-Dabei geht es primär um die Verteilung von IPv4 Adressen. Das System besteht aus verschiedenen Organisation die zusammenarbeiten um eine effiziente, effektive und gerechte Zuweisung dieser Ressourcen zu ermöglichen.
-Hierbei besteht das INRS aus drei hauptsächlichen Komponenten:
-- der Internet Assigned Numbers Authority ([IANA](https://www.iana.org/)). Verantwortlich für die Gesamtverwaltung des globalen IP-Adressen Pools.  
-- der Regionale Internet-Register (RIRs). Fünf verschiedene Organisationen verantwortlich für die Verteilung von IP-Adressen in bestimmten geografischen Regionen. ([AFINIC](https://www.afrinic.net/) für Afrika, [APNIC](https://www.apnic.net/) für die Asien/Pazifik-Region, [ARIN](https://www.arin.net/) für Nord-Amerika, [LACNIC](https://www.lacnic.net/) für Südamerika und Karibik sowie [RIPE NCC](https://www.ripe.net/) für Europa, zentral Asien und dem mittleren Osten) 
-- Lokale Internet-Register (LIRs). Meistens ISP (Internet Service Provider) wie zum Beispiel die Telekom etcetera. Die LIRs erhalten von den RIRs IP-Adressblöcke welche sie an die Endnutzer*innen verteilen. 
+Das INRS ist hauptsächlich für die Verteilung von IPv4 Adressen zuständig und besteht aus verschiedenen Organisationen, die zusammenarbeiten, um eine effiziente und gerechte Zuweisung dieser Ressourcen zu ermöglichen.
+
+Das INRS umfasst drei Hauptkomponenten:
+- der Internet Assigned Numbers Authority ([IANA](https://www.iana.org/)). Verantwortlich für die Gesamtverwaltung des globalen IP-Adresspools.  
+- der Regionale Internet-Register (RIRs), fünf verschiedene Organisationen, die für die Verteilung von IP-Adressen in bestimmten geografischen Regionen verantwortlich sind. Dazu gehören [AFINIC](https://www.afrinic.net/) für Afrika, [APNIC](https://www.apnic.net/) für die Asien/Pazifik-Region, [ARIN](https://www.arin.net/) für Nord-Amerika, [LACNIC](https://www.lacnic.net/) für Südamerika und Karibik sowie [RIPE NCC](https://www.ripe.net/) für Europa, zentral Asien und dem mittleren Osten) 
+- Lokale Internet-Register (LIRs). meistens ISPs (Internet Service Provider) wie die Telekom etc. Die LIRs erhalten IP-Adressblöcke von den RIRs, welche sie dann an die Endnutzer*innen verteilen. 
 
 
 ## AFRINIC versus Cloud Innovation
 
-Wie bereits in einem [Heise-Artikel](https://www.heise.de/news/IP-Adressen-Rechtsstreit-um-Afrinic-gefaehrdet-Selbstverwaltung-7187910.html) erörtert, stehen die beiden Parteien AFRINIC und Cloud Innovation (einem Anbieter für IPv4-Adressen zur Miete) in einem Rechtsstreit. 
-
-Hierbei nimmt das Ausmaß der Verhandlungen eine Größere Rolle ein, als man im ersten Moment vermutet. Es kommt zu einer entscheidenden Frage über die Macht der RIRs bei der Verwaltung von Internet-Ressourcen und die Rechte und Pflichten von Organisationen, die diese Ressourcen erhalten.
-Wenn eine Institution wie die AFRINIC nicht mehr in einer kontrollierten Weise agiert oder eine Organisation eingesetzt wird, welche nicht im Interesse der Allgemeinheit handelt, über die IP-Adressblöcke verfügt könnten die Konsequenzen Weltweit spürbar werden.   
+Wie bereits im [Artikel](https://www.heise.de/news/IP-Adressen-Rechtsstreit-um-Afrinic-gefaehrdet-Selbstverwaltung-7187910.html) von Monika Ermert erörtert, befinden sich AFRINIC und Cloud Innovation (ein Anbieter von IPv4-Adressen zur Vermietung) in einem Rechtsstreit. Die Bedeutung der Verhandlungen geht über das Offensichtliche hinaus und stellt eine entscheidende Frage zur Macht der Regional Internet Registries (RIRs) in der Verwaltung von Internet-Ressourcen sowie den Rechten und Pflichten von Organisationen, die diese Ressourcen erhalten. Wenn eine Institution wie AFRINIC nicht mehr in einer kontrollierten Art und Weise handelt oder eine Organisation, die nicht im Interesse der Allgemeinheit handelt, über die IP-Adressblöcke verfügt, könnten die Auswirkungen weltweit spürbar sein.
  
 
 
 
 
 
-
-
-
-## Ein anderes Problem
+## Die Situation um AFRINIC
 
 Der CEO von ARIN John Curran, der RIR verantwortlich für die Region Nordamerika, hat am 20.02.2023 in einem Lightning Talk verschärft vor einem weiteren Problem für AFRINIC gewarnt (siehe [YouTube - Lightning Talk](https://youtu.be/Qd36oL07odM)). Derzeit ist die AFRINIC in keinem handlungsunfähigen Zustand. Afrinics CEO Eddy Kayihura wurde suspendiert. Dadurch kann auf keine weiteren Klagen reagiert werden sowie keine Beschlussfähigen-Abmachungen getroffen werden. Hierbei ist sowohl AFRINIC als RIR betroffen als auch die angestellten Personen und letztlich auch die Endnutzer*innen welche über ISPs von AFRINIC erhalten. Wenn diese Organisation wegfällt, beziehungsweise ihre selbstverwaltete Arbeitsweise verliert hat das Folgen, die weit über den Verlust der Kontrolle über die Vergabe von Adressblöcken hinweg gehen. 
 John Curran beschreibt den Zustand von AFRINIC als "on a week to week basis", um zu verdeutlichen, dass zwar Gehälter bezahlt werden könnten, finanzieller Spielraum jedoch nur begrenzt vorstellbar ist.
@@ -46,14 +41,11 @@ Letztlich ist das Problem schwierig zu beschreiben, da der Fall eines Verlusts e
 
 
 
-
-
-
-
 ## Schluss/Fazit
 
-Zwar sind die Konsequenzen noch sehr spekulativ und pessimistisch, jedoch sollte über die Wichtigkeit des Themas (besonders "Freiheit im Internet") intensiver gesprochen werden. Die möglichen Folgen, einer Organisation die über die Kontrolle des Internet-Zugriffs einer einzelnen Person verfügt ist ein sehr bedenklicher Umstand. Und Grund genug, um Aufmerksamkeit auf die Art und Weise wie IP-Adressen verwalten und verteilt werden zu lenken. Auf der anderen Seite ist eine Organisation wie AFRINIC fundamental für die Steuerung/Verwaltung von IP-Adressen und eine alternative für den Fall des Verlusts von AFRINIC ist noch nie vorgekommen und noch nie berücksichtigt worden. Hier stellen sich schließend zwei Grundsatzfragen:
-Darf eine Organisation, die nicht Policy kontrolliert ist und welche bestimmend ist für den Internetzugang eines Kontinentes, entscheiden was mit den ausgegeben IP-Adressen geschieht? Und Ebenso, wenn eine Organisation wie AFRINIC wegfällt, was geschieht mit den IP-Adressen und der verantwortlichen Region?   
+Obwohl die Konsequenzen noch sehr spekulativ und pessimistisch sind, ist es von großer Bedeutung, die Wichtigkeit des Themas, insbesondere der "Freiheit im Internet", mehr zu diskutieren. Die möglichen Folgen einer Organisation, die über die Kontrolle des Internetzugriffs einer einzelnen Person verfügt, ist ein sehr bedenklicher Umstand, der die Aufmerksamkeit auf die Art und Weise lenkt, wie IP-Adressen verwaltet und verteilt werden.
+
+Auf der anderen Seite ist eine Organisation wie AFRINIC von essenzieller Bedeutung für die Steuerung und Verwaltung von IP-Adressen. Zurzeit existiert kein Plan, für den Fall das eine RIR wegfällt. Dies wirft zwei wichtige Grundsatzfragen auf: Darf eine Organisation, die nicht durch eine Policy (wie [ICP-2 Policy](https://www.icann.org/resources/pages/new-rirs-criteria-2012-02-25-en)) kontrolliert wird und die den Internetzugang eines Kontinents bestimmt, darüber entscheiden, was mit den ausgegebenen IP-Adressen geschieht? Und wenn eine Organisation wie AFRINIC ausfällt, was geschieht mit den IP-Adressen und der verantwortlichen Region?
 
 
 
